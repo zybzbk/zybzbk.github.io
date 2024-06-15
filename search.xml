@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2024/06/15/hello-world/"/>
+      <url>/2024/06/15/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>欢迎来到<a href="https://hexo.io/">Hexo</a>! 这是您的第一篇帖子。 查看 <a href="https://hexo.io/docs/">文档</a>文档获取更多信息。如果在使用 Hexo 过程中遇到任何问题，您可以在<a href="https://hexo.io/docs/troubleshooting.html">故障排除</a>中找到答案或者在 GitHub 上向我提问。<a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><h3 id="创建新文章"><a href="#创建新文章" class="headerlink" title="创建新文章"></a>创建新文章</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;我的新文章&quot;</span></span><br></pre></td></tr></table></figure><p>更多模式: <a href="https://hexo.io/docs/writing.html">编写</a></p><h3 id="运行服务器"><a href="#运行服务器" class="headerlink" title="运行服务器"></a>运行服务器</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>更多模式: <a href="https://hexo.io/docs/server.html">服务器</a></p><h3 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a>生成静态文件</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>更多模式: <a href="https://hexo.io/docs/generating.html">生成</a></p><h3 id="部署到远程服务器"><a href="#部署到远程服务器" class="headerlink" title="部署到远程服务器"></a>部署到远程服务器</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>更多模式: <a href="https://hexo.io/docs/one-command-deployment.html">部署</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>转义字符</title>
+      <link href="/2024/05/01/%E8%BD%AC%E4%B9%89%E5%AD%97%E7%AC%A6/"/>
+      <url>/2024/05/01/%E8%BD%AC%E4%B9%89%E5%AD%97%E7%AC%A6/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Python主要类型</title>
+      <link href="/2024/04/26/Python%E7%9A%84%E7%B1%BB%E5%9E%8B/"/>
+      <url>/2024/04/26/Python%E7%9A%84%E7%B1%BB%E5%9E%8B/</url>
+      
+        <content type="html"><![CDATA[<h1 id="类型"><a href="#类型" class="headerlink" title="类型"></a><center>类型</h1><ol><li>str - 字符串</li><li>int - 整数</li><li>float - 浮点数（小数）</li><li>bool - 布尔值（表示真和假两种逻辑状态的数值）</li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Python </tag>
+            
+            <tag> 教程 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>input()命令</title>
+      <link href="/2024/04/15/input-%E5%91%BD%E4%BB%A4/"/>
+      <url>/2024/04/15/input-%E5%91%BD%E4%BB%A4/</url>
+      
+        <content type="html"><![CDATA[<ol><li>input语句可以获得用户输入。</li><li>input获得的用户输入可以赋值给变量，给后续的代码使用。</li><li>input 命令后面的括号是用来写提示语的。</li><li>input命令的输入只能接受str一类的字符串。</li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+            <tag> python </tag>
+            
+            <tag> 命令 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>python变量</title>
+      <link href="/2024/04/14/%E5%8F%98%E9%87%8F/"/>
+      <url>/2024/04/14/%E5%8F%98%E9%87%8F/</url>
+      
+        <content type="html"><![CDATA[<ol><li>命名最好可以让人看懂</li><li>可以使用语言类的Unicode 字符、数字、字母、下划线，且数字不能做开头</li><li>变量就是赋值</li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+            <tag> python </tag>
+            
+            <tag> 变量 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>md书写格式</title>
+      <link href="/2024/04/13/md%E4%B9%A6%E5%86%99%E6%A0%BC%E5%BC%8F/"/>
+      <url>/2024/04/13/md%E4%B9%A6%E5%86%99%E6%A0%BC%E5%BC%8F/</url>
+      
+        <content type="html"><![CDATA[<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><p>用#来表示标题，#数量代表着几级标题，最高是六级也就是六个＃。<br>可以用-空格的方式来表示无序项目列表。</p><ol><li>项目1</li><li>项目2</li><li>项目3<br>有序项目列表也可以用数字+英文句点的方式表示。<br>要在保留列表连续性的同时在列表中添加另一种元素，请将该元素缩进四个空格或一个制表符。<br>例如：</li></ol><ul><li><p>This is the first list item.</p></li><li><p>Here’s the second list item.</p><p>I need to add another paragraph below the second list item.</p></li><li><p>And here’s the third list item.<br>或者你也可以使用引用</p></li><li><p>This is the first list item.</p></li><li><p>Here’s the second list item.</p><blockquote><p>A blockquote would look great below the second list item.</p></blockquote></li><li><p>And here’s the third list item.<br><a href="http://www.example.com/">链接文字</a><br>链接可以用<a href=""></a>的方式表示，[]里面的文字是链接的文字，()里面要写链接地址。<br><img src="http://www.example.com/image.jpg" alt="图片描述"><br>图片可以用<img src="/">的方式表示，![]要写图片描述，()里面要写图片地址。<br><em>斜体</em><br><strong>加粗</strong><br>斜体可以用<em>，加粗可以用<strong>，如果要表示斜体加粗的文字，可以用</strong></em> *<em><strong>。<br>代码块可以用三个单或双引号+代码+三个单或双引号表示，代码块可以包含多行代码。<br><code>行内代码</code><br>代码块的行内代码可以用反引号&#96;表示。<br>分割线可以用三个星号</strong></em>或三个减号—表示。   </p><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;Hello, world!&quot;</span>)</span><br></pre></td></tr></table></figure><p>语法高亮可以用三个单引号+python表示Python代码块，也可以用三个单引号+javascript表示JavaScript代码块。<br><del>删除文本</del><br>双波浪线表示删除线</p><!-- 这是注释 --><p>注释可以用（!– –）来表示，记得把（）换成&lt;&gt;。</p><blockquote><p>这是一个引用<br>记得用右尖角，可以用多个右尖号表示嵌套引用。</p></blockquote></li></ul><hr><p>这是一个分割线用多个减号组成的。<br>表格可以用|来分割单元格，-来分割表头和内容，:来对齐内容。</p><table><thead><tr><th>表头1</th><th>表头2</th></tr></thead><tbody><tr><td>内容1</td><td>内容2</td></tr><tr><td>比如一个表格：</td><td></td></tr><tr><td>姓名</td><td>年龄</td></tr><tr><td>小明</td><td>25</td></tr><tr><td>小红</td><td>23</td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> Markdown书写方法 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+            <tag> 书写格式 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>print语句</title>
+      <link href="/2024/04/13/print%E8%AF%AD%E5%8F%A5/"/>
+      <url>/2024/04/13/print%E8%AF%AD%E5%8F%A5/</url>
+      
+        <content type="html"><![CDATA[<h1 id="print语句"><a href="#print语句" class="headerlink" title=" print语句"></a><center> print语句</h1><p>格式：</p><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;Hello, world!&quot;</span>)</span><br></pre></td></tr></table></figure><p>注意事项：</p><ol><li>要打单或双引号</li><li>不能是<strong>中文符号</strong></li><li>引号要打全</li><li>print 命令前不能有空格</li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+            <tag> python </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
