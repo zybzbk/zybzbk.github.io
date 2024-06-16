@@ -4,13 +4,27 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2024/06/15/hello-world/"/>
-      <url>/2024/06/15/hello-world/</url>
+      <title>hexo简单教程</title>
+      <link href="/2024/06/15/hexo%E7%AE%80%E5%8D%95%E6%95%99%E7%A8%8B/"/>
+      <url>/2024/06/15/hexo%E7%AE%80%E5%8D%95%E6%95%99%E7%A8%8B/</url>
       
         <content type="html"><![CDATA[<p>欢迎来到<a href="https://hexo.io/">Hexo</a>! 这是您的第一篇帖子。 查看 <a href="https://hexo.io/docs/">文档</a>文档获取更多信息。如果在使用 Hexo 过程中遇到任何问题，您可以在<a href="https://hexo.io/docs/troubleshooting.html">故障排除</a>中找到答案或者在 GitHub 上向我提问。<a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="快速开始">快速开始</h2><h3 id="创建新文章">创建新文章</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;我的新文章&quot;</span></span><br></pre></td></tr></table></figure><p>更多模式: <a href="https://hexo.io/docs/writing.html">编写</a></p><h3 id="运行服务器">运行服务器</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>更多模式: <a href="https://hexo.io/docs/server.html">服务器</a></p><h3 id="生成静态文件">生成静态文件</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>更多模式: <a href="https://hexo.io/docs/generating.html">生成</a></p><h3 id="部署到远程服务器">部署到远程服务器</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>更多模式: <a href="https://hexo.io/docs/one-command-deployment.html">部署</a></p><div class="admonition note"><p class="admonition-title">Hexo-admonition 插件使用示例</p><p>这是基于 hexo-admonition 插件渲染的一条提示信息。类型为 note，并设置了自定义标题。</p></div>]]></content>
       
       
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> 教程 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -46,9 +60,9 @@
       
         <tags>
             
-            <tag> Python </tag>
-            
             <tag> 教程 </tag>
+            
+            <tag> Python </tag>
             
         </tags>
       
