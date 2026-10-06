@@ -1,1 +1,0 @@
-import{i as e,s as t,t as n}from"./app-B5KdyQrN.js";var r=JSON.parse(`{"path":"/","title":"Home","lang":"zh-CN","frontmatter":{"home":"ture","title":"Home"},"git":{},"filePathRelative":"README.md"}`),i={name:`README.md`};function a(n,r,i,a,o,s){return t(),e(`div`)}var o=n(i,[[`render`,a]]);export{r as _pageData,o as default};
